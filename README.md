@@ -6,7 +6,7 @@
 - [convertio](https://convertio.co/fr/jpg-webp/)
 
 ## SVG tools
-- [vectorizer.ai](- https://vectorizer.ai/) best pixel to vector
+- [vectorizer.ai](https://vectorizer.ai/) best pixel to vector
 - [pngtosvg.com](https://www.pngtosvg.com/) The best png to svg converter online
 - [svgomg](https://jakearchibald.github.io/svgomg/)
 - [convertio.co/png-svg](https://convertio.co/png-svg/)
